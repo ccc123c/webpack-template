@@ -8,3 +8,5 @@ npm install
 npm start
 ```
 
+## 修改package.json中的name为你自己的项目名称
+
